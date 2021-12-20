@@ -1,0 +1,7 @@
+name: ImageMap
+main: de.tryblock.ImageMap
+version: 1.0
+author: TryBlock
+api-version: 1.17
+commands:
+  test:
